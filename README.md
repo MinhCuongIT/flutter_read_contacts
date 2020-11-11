@@ -1,8 +1,15 @@
 # flutter_read_contacts
 
-A new Flutter application.
+Demo ứng dụng đọc danh bạ điện thoại hiển thị dưới dạng listview
 
-## Getting Started
+## Android & IOS
+
+<p>
+<img src="captures/android-demo.png" align = "center" height = "650px">
+</p>
+<p>
+<img src="captures/ios-demo.png" align = "center" height = "650px">
+</p>
 
 This project is a starting point for a Flutter application.
 
