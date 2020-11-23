@@ -4,12 +4,17 @@ Demo ứng dụng đọc danh bạ điện thoại hiển thị dưới dạng l
 
 ## Android & IOS
 
-<p>
+| Android | IOS |
+|-|-|
+| <img src="captures/android-demo.png" width="300"> | <img src="captures/ios-demo.png" width="300"> |
+
+
+<!-- |<p>
 <img src="captures/android-demo.png" align = "center" height = "650px">
-</p>
-<p>
+</p>|<p>
 <img src="captures/ios-demo.png" align = "center" height = "650px">
-</p>
+</p>| -->
+
 
 This project is a starting point for a Flutter application.
 
